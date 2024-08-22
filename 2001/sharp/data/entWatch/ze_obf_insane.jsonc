@@ -21,37 +21,26 @@
 
 [
   {
-    "name": "电磁刺球",
-    "shortName": "电",
+    "name": "灭火器",
+    "shortName": "灭火",
     "buttonClass": "func_button",
-    "hammerId": "27266",
-    "cooldown": 15,
+    "hammerId": "394",
+    "cooldown": 0,
     "team": 3,
     "knife": false,
-    "mode": 4,
-    "maxUses": 3,
+    "mode": 1,
     "count": 1
   },
   {
-    "name": "血清",
-    "shortName": "奶",
-    "buttonClass": "func_button",
-    "hammerId": "27287",
-    "cooldown": 65,
+    "name": "治疗包",
+    "shortName": "治疗",
+    "buttonClass": "",
+    "hammerId": "410",
+    "cooldown": 0,
     "team": 3,
+    "maxUses": 4,
     "knife": false,
-    "mode": 2,
-    "count": 1
-  },
-  {
-    "name": "火枪",
-    "shortName": "火",
-    "buttonClass": "func_button",
-    "hammerId": "27291",
-    "cooldown": 20,
-    "team": 3,
-    "knife": false,
-    "mode": 2,
+    "mode": 3,
     "count": 1
   }
 ]

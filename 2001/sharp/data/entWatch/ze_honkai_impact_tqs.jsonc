@@ -21,34 +21,22 @@
 
 [
   {
-    "name": "电磁刺球",
-    "shortName": "电",
+    "name": "弹药",
+    "shortName": "弹药",
     "buttonClass": "func_button",
-    "hammerId": "27266",
-    "cooldown": 15,
-    "team": 3,
-    "knife": false,
-    "mode": 4,
-    "maxUses": 3,
-    "count": 1
-  },
-  {
-    "name": "血清",
-    "shortName": "奶",
-    "buttonClass": "func_button",
-    "hammerId": "27287",
-    "cooldown": 65,
+    "hammerId": "2072",
+    "cooldown": 55,
     "team": 3,
     "knife": false,
     "mode": 2,
     "count": 1
   },
   {
-    "name": "火枪",
-    "shortName": "火",
+    "name": "冰",
+    "shortName": "冰",
     "buttonClass": "func_button",
-    "hammerId": "27291",
-    "cooldown": 20,
+    "hammerId": "6483",
+    "cooldown": 55,
     "team": 3,
     "knife": false,
     "mode": 2,
