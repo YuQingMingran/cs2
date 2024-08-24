@@ -22,8 +22,16 @@
 {
   "Monsters": [
     {
-      "identity": "261",
-      "display": "Gargantua"
+      "identity": "727",
+      "display": "炎魔"
+    },
+    {
+      "identity": "349",
+      "display": "巨魔"
+    },
+    {
+      "identity": "21887",
+      "display": "巨魔"
     }
   ]
 }

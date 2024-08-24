@@ -20,10 +20,36 @@
   // identity   (string)   -> UniqueHammerId (同时支持Counter/Breakable)
 
 {
+  "Breakables": [
+    {
+      "target": "bosss_hp",
+      "display": "Santa"
+    },
+    {
+      "target": "bosss_hp1",
+      "display": "Santa Claus"
+    },
+    {
+      "target": "bosss_hp2",
+      "display": "Zyzz"
+    }
+  ],
   "Monsters": [
     {
-      "identity": "261",
-      "display": "Gargantua"
+      "identity": "4304",
+      "display": "大头"
+    },
+    {
+      "identity": "1221",
+      "display": "板鸭"
+    },
+    {
+      "identity": "756",
+      "display": "氯化钠"
+    },
+    {
+      "identity": "519",
+      "display": "滑稽"
     }
   ]
 }
