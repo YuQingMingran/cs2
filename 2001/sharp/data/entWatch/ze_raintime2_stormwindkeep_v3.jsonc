@@ -21,8 +21,8 @@
 
 [
   {
-    "name": "骑士",
-    "shortName": "骑士",
+    "name": "高达",
+    "shortName": "高达",
     "buttonClass": "game_ui",
     "hammerId": "1813",
     "triggerId": ["1899"],
@@ -170,8 +170,8 @@
     "count": 1
   },
   {
-    "name": "跳刀",
-    "shortName": "跳刀",
+    "name": "收割",
+    "shortName": "收割",
     "buttonClass": "func_button",
     "hammerId": "2170",
     "triggerId": ["2168"],
